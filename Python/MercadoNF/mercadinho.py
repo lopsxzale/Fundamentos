@@ -4,7 +4,8 @@ nome_loja = "Mercado da Budega"
 estoque = {
     "bola": 20.00,
     "luva": 15.00,
-    "jaqueta": 39.90
+    "jaqueta": 39.90,
+    "camisa": 20.0
 }
 
 # Mostra o Menu de itens para compra
